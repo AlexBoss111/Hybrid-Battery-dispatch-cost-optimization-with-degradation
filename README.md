@@ -1,2 +1,2 @@
 # Hybrid-Battery-dispatch-cost-optimization-with-degradation
-This model provides two optimization functions, one for energy cost minimization of energy supply to a load and emissions based on two corresponding incentives. The model includes the degradation of the batteries. It provides the user with 7 different technologies
+This model provides two optimization functions, one for energy cost minimization of energy supply to a load and a second one to minimize the CO2eq emissions based on two corresponding incentives (energy price and kWh emissions in €/kWh and gCO2eq/kWh respectively). The model includes the degradation of the batteries and increasing their lifetime if the dispatch is followed. It provides the user with 7 different technologies to be simulated.
